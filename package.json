@@ -1,0 +1,33 @@
+{
+  "name": "integrar-react-js-a-tu-aplicacion-en-node-desde-0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Escanor68/Integrar-REACT-JS-a-tu-Aplicacion-en-NODE-desde-0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Escanor68/Integrar-REACT-JS-a-tu-Aplicacion-en-NODE-desde-0/issues"
+  },
+  "homepage": "https://github.com/Escanor68/Integrar-REACT-JS-a-tu-Aplicacion-en-NODE-desde-0#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webpack": "^5.74.0",
+    "webpack-dev-middleware": "^5.3.3"
+  }
+}
